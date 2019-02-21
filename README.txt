@@ -1,0 +1,3 @@
+Crea tres líneas de autobuses (queues) dónde insertes n cantidad de autobuses por línea asignando un ID (secuencial) y un número de asientos aleatorios.
+Deberías crear una queue dónde guardar el autobus que tenga menos asientos (menor número aleatorio) como primer elemento en tu queue final. Deberás considerar
+que las queues iniciales pueden tener distintos tamaños y que tendrás que meter los elementos de 3 en 3 (comparando cada fila)
